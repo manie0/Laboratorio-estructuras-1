@@ -1,0 +1,302 @@
+digraph {
+	dpi=65
+	2579057240976 [label="Title: Casa En Venta En Sopo Sopo Cod. VREI18080\nDepartment: Cundinamarca\nCity: Sopó\nPrimary Metric: 1187371.3109128345\nBalance Factor: 0"]
+	2579057240976 -> 2579057241680
+	2579057241680 [label="Title: Casa En Arriendo/venta En Barranquilla Caujaral Cod. AREI-16605\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 18853.69532428356\nBalance Factor: 0"]
+	2579057241680 -> 2579057238928
+	2579057238928 [label="Title: Casa En Arriendo En Chia Chia Cod. AINH2992\nDepartment: Cundinamarca\nCity: Chía\nPrimary Metric: 13793.103448275862\nBalance Factor: 0"]
+	2579057238928 -> 2579057340688
+	2579057340688 [label="Title: Casa En Arriendo En Cali Prados Del Norte Cod. AJMI5787\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 10285.714285714286\nBalance Factor: 0"]
+	2579057340688 -> 2579057242320
+	2579057242320 [label="Title: Apartamento En Arriendo En Floridablanca Zapamanga Cod. ACLV-6242\nDepartment: Santander\nCity: Floridablanca\nPrimary Metric: 8163.265306122449\nBalance Factor: 0"]
+	2579057242320 -> 2579057240592
+	2579057240592 [label="Title: Casa En Arriendo/venta En Cali Cascajal Corregimiento El Hormiguero Alto Maraon Cod. AJMI6360\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 1750.0\nBalance Factor: -1"]
+	2579057240592 -> 2579057333520
+	2579057333520 [label="Title: Casa Condominio En Arriendo/venta En La Calera Vereda El Hato, Sector La Ramita. Cod. AREI21161\nDepartment: Cundinamarca\nCity: La Calera\nPrimary Metric: 666.6666666666666\nBalance Factor: 0"]
+	2579057240592 -> 2579057245840
+	2579057245840 [label="Title: Casa En Arriendo En Armenia Las Margaritas Cod. ABIE406028\nDepartment: Quindío\nCity: Armenia\nPrimary Metric: 7647.058823529412\nBalance Factor: 1"]
+	2579057245840 -> 2579057383824
+	2579057383824 [label="Title: Apartamento En Arriendo/venta En Cali Villa Del Sur Cod. ASVC323\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 7428.571428571428\nBalance Factor: 0"]
+	2579057242320 -> 2579057239248
+	2579057239248 [label="Title: Apartamento En Arriendo En Cali Ciudad Crdoba Cod. AODH878\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 9821.42857142857\nBalance Factor: 0"]
+	2579057239248 -> 2579057243472
+	2579057243472 [label="Title: Casa En Arriendo En Bucaramanga La Universidad Cod. ABNC89396\nDepartment: Santander\nCity: Bucaramanga\nPrimary Metric: 9200.0\nBalance Factor: -1"]
+	2579057243472 -> 2579057393168
+	2579057393168 [label="Title: Apartamento En Arriendo En Cali Caney Especial Cod. AMTB2720\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 9523.809523809523\nBalance Factor: 0"]
+	2579057239248 -> 2579057332880
+	2579057332880 [label="Title: Apartamento En Arriendo En Medellin Laureles La Castellana Cod. ARPR8966\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 10000.0\nBalance Factor: 1"]
+	2579057332880 -> 2579057435920
+	2579057435920 [label="Title: Apartamento En Arriendo En Bucaramanga Ciudadela Real De Minas Cod. AJRE5583\nDepartment: Santander\nCity: Bucaramanga\nPrimary Metric: 10000.0\nBalance Factor: 0"]
+	2579057340688 -> 2579057386896
+	2579057386896 [label="Title: Apartamento En Arriendo En Floridablanca Caaveral Cod. ABNC94157\nDepartment: Santander\nCity: Floridablanca\nPrimary Metric: 12359.550561797752\nBalance Factor: -1"]
+	2579057386896 -> 2579057344464
+	2579057344464 [label="Title: Apartamento En Arriendo En Cali Valle Del Lili Cod. ASUM461996\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 11538.461538461539\nBalance Factor: 0"]
+	2579057344464 -> 2579057388048
+	2579057388048 [label="Title: Apartamento En Arriendo En Cali Colseguros Andes Cod. AMTB2724\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 11428.57142857143\nBalance Factor: 0"]
+	2579057344464 -> 2579057434896
+	2579057434896 [label="Title: Apartamento En Arriendo En Bogota Hipotecho Cod. ARYG8539\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 12000.0\nBalance Factor: 0"]
+	2579057386896 -> 2579057382800
+	2579057382800 [label="Title: Casa En Arriendo En Envigado Metropolitano Cod. ARPR7807\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 12413.793103448275\nBalance Factor: -1"]
+	2579057382800 -> 2579057387664
+	2579057387664 [label="Title: Apartamento En Arriendo En Cali Bochalema Cod. ALFX444\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 12363.636363636364\nBalance Factor: 0"]
+	2579057382800 -> 2579057242000
+	2579057242000 [label="Title: Apartamento En Arriendo En Medellin Pilarica Cod. AMER198907\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 12500.0\nBalance Factor: -1"]
+	2579057242000 -> 2579057434576
+	2579057434576 [label="Title: Casa En Arriendo En Jamundi Cinco Soles Cod. AVLZ3037\nDepartment: Valle del Cauca\nCity: Jamundí\nPrimary Metric: 13274.336283185841\nBalance Factor: 0"]
+	2579057238928 -> 2579057244368
+	2579057244368 [label="Title: Apartamento En Arriendo En Marinilla Alcaravanes Cod. AGRJ691\nDepartment: Antioquia\nCity: Marinilla\nPrimary Metric: 15625.0\nBalance Factor: -1"]
+	2579057244368 -> 2579057339728
+	2579057339728 [label="Title: Apartaestudio En Arriendo En Barranquilla Ciudad Jardn Cod. AADC41792\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 14545.454545454546\nBalance Factor: 0"]
+	2579057339728 -> 2579057382096
+	2579057382096 [label="Title: Apartamento En Arriendo En Medellin La Castellana Cod. ARPR8947\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 14444.444444444445\nBalance Factor: 1"]
+	2579057382096 -> 2579057427792
+	2579057427792 [label="Title: Apartamento En Arriendo/venta En Barranquilla Ciudad Jardin Cod. AARE67336\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 14264.0\nBalance Factor: 0"]
+	2579057339728 -> 2579057331472
+	2579057331472 [label="Title: Apartamento En Arriendo En Bucaramanga Sotomayor Cod. AABW440\nDepartment: Santander\nCity: Bucaramanga\nPrimary Metric: 15333.333333333334\nBalance Factor: 0"]
+	2579057331472 -> 2579057391120
+	2579057391120 [label="Title: Casa En Arriendo/venta En Medellin La  Castellana Cod. AOCH1738\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 15000.0\nBalance Factor: 0"]
+	2579057331472 -> 2579057388752
+	2579057388752 [label="Title: Apartamento En Arriendo En Barranquilla Villa Santos Cod. AADC-41574\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 15384.615384615385\nBalance Factor: 0"]
+	2579057244368 -> 2579057383504
+	2579057383504 [label="Title: Apartamento En Arriendo En Barranquilla Colombia Cod. AADN758870\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 17142.85714285714\nBalance Factor: 0"]
+	2579057383504 -> 2579057378704
+	2579057378704 [label="Title: Casa En Arriendo En Medellin San Juan Cod. ARPR8548\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 16470.58823529412\nBalance Factor: 0"]
+	2579057378704 -> 2579057332560
+	2579057332560 [label="Title: Apartamento En Arriendo En Bogota San Cristobal Norte-Usaqun Cod. ACJE672\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 16161.61616161616\nBalance Factor: 0"]
+	2579057332560 -> 2579057337872
+	2579057337872 [label="Title: Apartamento En Arriendo En Cali Valle Del Lili Cod. AVLZ-2608\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 16000.0\nBalance Factor: 0"]
+	2579057332560 -> 2579057338640
+	2579057338640 [label="Title: Apartamento En Arriendo En Cali El Limonar Cod. ASUM461761\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 16470.58823529412\nBalance Factor: 0"]
+	2579057378704 -> 2579057390416
+	2579057390416 [label="Title: Local En Arriendo En Cali Versalles Cod. ABNC92431\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 16666.666666666668\nBalance Factor: 0"]
+	2579057390416 -> 2579057435216
+	2579057435216 [label="Title: Apartamento En Arriendo En Bogota Rosales Cod. ABNC79776\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 16498.983870967742\nBalance Factor: 0"]
+	2579057390416 -> 2579057429520
+	2579057429520 [label="Title: Apartamento En Arriendo En Barranquilla Betania Cod. AFNC-100424\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 16694.117647058825\nBalance Factor: 0"]
+	2579057383504 -> 2579057386192
+	2579057386192 [label="Title: Apartaestudio En Arriendo En Medellin San Javier Cod. AOCH1750\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 18000.0\nBalance Factor: -1"]
+	2579057386192 -> 2579057391632
+	2579057391632 [label="Title: Apartamento En Arriendo En Envigado Zuiga Cod. ARAZ1045\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 17307.69230769231\nBalance Factor: 0"]
+	2579057386192 -> 2579057434256
+	2579057434256 [label="Title: Apartamento En Arriendo En Medellin Belen Cod. ARPR9157\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 18115.942028985508\nBalance Factor: 0"]
+	2579057434256 -> 2579057392528
+	2579057392528 [label="Title: Apartamento En Arriendo En Barranquilla Ciudad Jardn Cod. AADC41940\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 18085.106382978724\nBalance Factor: 0"]
+	2579057434256 -> 2579057435536
+	2579057435536 [label="Title: Apartamento En Arriendo En Cali Prados Del Norte Cod. AVLZ2444\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 18750.0\nBalance Factor: 0"]
+	2579057241680 -> 2579057239952
+	2579057239952 [label="Title: Apartamento En Arriendo/venta En Bogota Maria Cristina Cod. ABKS1945\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 31428.571428571428\nBalance Factor: 0"]
+	2579057239952 -> 2579057340368
+	2579057340368 [label="Title: Apartaestudio En Arriendo En Barranquilla San Vicente Cod. AFNC-100629\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 24390.243902439026\nBalance Factor: 0"]
+	2579057340368 -> 2579057333200
+	2579057333200 [label="Title: Apartamento En Arriendo En Bogota Santa Brbara Cod. ADUR4406\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 19767.441860465115\nBalance Factor: 0"]
+	2579057333200 -> 2579057244048
+	2579057244048 [label="Title: Apartamento En Arriendo En Barranquilla Betania Cod. AADN758180\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 19354.83870967742\nBalance Factor: 1"]
+	2579057244048 -> 2579057244752
+	2579057244752 [label="Title: Apartamento En Arriendo En Medellin San Diego Cod. AMER1904\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 19298.245614035088\nBalance Factor: 1"]
+	2579057244752 -> 2579057432144
+	2579057432144 [label="Title: Apartamento En Arriendo En Sabaneta La Doctora Cod. ANVI-1775\nDepartment: Antioquia\nCity: Sabaneta\nPrimary Metric: 19230.76923076923\nBalance Factor: 0"]
+	2579057244048 -> 2579057391824
+	2579057391824 [label="Title: Apartaestudio En Arriendo En Cali El Limonar Cod. APRO2086\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 19642.85714285714\nBalance Factor: 0"]
+	2579057333200 -> 2579057341776
+	2579057341776 [label="Title: Oficina En Arriendo En Bogota La Castellana Cod. AMIS1021004\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 21025.641025641027\nBalance Factor: -1"]
+	2579057341776 -> 2579057389072
+	2579057389072 [label="Title: Apartamento En Arriendo En Bogota Sucre Chapinero Cod. AASV7397\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 20754.716981132075\nBalance Factor: 0"]
+	2579057341776 -> 2579057387280
+	2579057387280 [label="Title: Apartamento En Arriendo En Envigado La Frontera Cod. ASUR30154\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 23584.905660377357\nBalance Factor: 1"]
+	2579057387280 -> 2579057390800
+	2579057390800 [label="Title: Apartamento En Arriendo En Bogota Quinta Paredes Cod. AASV7371\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 23333.333333333332\nBalance Factor: 0"]
+	2579057340368 -> 2579057330704
+	2579057330704 [label="Title: Finca En Venta En Barbosa Barbosa Vereda Paraiso Cod. VMUR2690\nDepartment: Antioquia\nCity: Barbosa\nPrimary Metric: 27239.150507848568\nBalance Factor: -1"]
+	2579057330704 -> 2579057340752
+	2579057340752 [label="Title: Apartamento En Arriendo En Medellin Beln La Mota Cod. APRB293311\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 24603.174603174604\nBalance Factor: -1"]
+	2579057340752 -> 2579057389392
+	2579057389392 [label="Title: Apartamento En Arriendo En Bogota Gilmar Cod. AINP22351\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 25044.708333333332\nBalance Factor: 0"]
+	2579057330704 -> 2579057428432
+	2579057428432 [label="Title: Apartaestudio En Arriendo En Cali Pance Cod. AAYS1686\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 28571.428571428572\nBalance Factor: -1"]
+	2579057428432 -> 2579057390096
+	2579057390096 [label="Title: Apartamento En Arriendo/venta En Bogota Club De Los Lagartos Cod. AGES1474130\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 27586.206896551725\nBalance Factor: 0"]
+	2579057428432 -> 2579057343120
+	2579057343120 [label="Title: Apartamento En Arriendo/venta En Bogota Mochuelo Cod. AREI-17525\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 29571.428571428572\nBalance Factor: 1"]
+	2579057343120 -> 2579057433936
+	2579057433936 [label="Title: Oficina En Arriendo En Bogota Chico Norte Ii Cod. ABKS1963\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 28571.428571428572\nBalance Factor: 0"]
+	2579057239952 -> 2579057241296
+	2579057241296 [label="Title: Apartamento En Venta En Rionegro Vereda Ojo De Agua Cod. VAYH3595\nDepartment: Antioquia\nCity: Rionegro\nPrimary Metric: 45370.85744345081\nBalance Factor: -1"]
+	2579057241296 -> 2579057330384
+	2579057330384 [label="Title: Local En Arriendo En Bogota Olaya-Rafael Uribe Uribe Cod. ADUR4751\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 39600.0\nBalance Factor: 0"]
+	2579057330384 -> 2579057333904
+	2579057333904 [label="Title: Apartamento En Arriendo/venta En Barranquilla San Vicente Cod. AARE64875\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 35002.32558139535\nBalance Factor: 0"]
+	2579057333904 -> 2579057339344
+	2579057339344 [label="Title: Apartamento En Arriendo En Cali Cristales Cod. ASUM460580\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 32710.280373831774\nBalance Factor: 0"]
+	2579057333904 -> 2579057338256
+	2579057338256 [label="Title: Local En Arriendo En Cali Camino Real Cod. ABNC84990\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 39285.71428571428\nBalance Factor: 0"]
+	2579057330384 -> 2579057388432
+	2579057388432 [label="Title: Apartamento En Arriendo En Bogota Chapinero Alto Cod. ACRS94447\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 41538.46153846154\nBalance Factor: 0"]
+	2579057388432 -> 2579057243728
+	2579057243728 [label="Title: Apartamento En Arriendo/venta En Bogota La Cabrera Cod. ABKS1753\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 40000.0\nBalance Factor: 0"]
+	2579057388432 -> 2579057380752
+	2579057380752 [label="Title: Apartamento En Arriendo En Medellin El Campestre - El Poblado Cod. ARAZ-998\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 42920.35398230088\nBalance Factor: 0"]
+	2579057241296 -> 2579057331856
+	2579057331856 [label="Title: Casa Campestre En Venta En Buenaventura Ladrilleros Cod. VSBI11485\nDepartment: Valle del Cauca\nCity: Buenaventura\nPrimary Metric: 146198.8304093567\nBalance Factor: -1"]
+	2579057331856 -> 2579057384208
+	2579057384208 [label="Title: Apartamento En Arriendo En Bogota El Chico Cod. ABKS-767\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 54545.454545454544\nBalance Factor: -1"]
+	2579057384208 -> 2579057384848
+	2579057384848 [label="Title: Finca En Venta En Cali Vereda San Isidro Cod. VBNC88491\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 122448.97959183673\nBalance Factor: 0"]
+	2579057331856 -> 2579057391440
+	2579057391440 [label="Title: Casa En Venta En Cali Pance Cod. VJMI6191\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 930851.0638297872\nBalance Factor: 0"]
+	2579057391440 -> 2579057432848
+	2579057432848 [label="Title: Casa Campestre En Venta En Tabio Vereda Lourdes Cod. VREI20371\nDepartment: Cundinamarca\nCity: Tabio\nPrimary Metric: 381619.93769470404\nBalance Factor: 0"]
+	2579057432848 -> 2579057340048
+	2579057340048 [label="Title: Casa En Venta En Chia Parcelacion Sindamanoy Cod. VKWR11902625\nDepartment: Cundinamarca\nCity: Chía\nPrimary Metric: 235408.7182401169\nBalance Factor: 0"]
+	2579057432848 -> 2579057436944
+	2579057436944 [label="Title: Casa Condominio En Venta En La Calera Vereda San Jose Cod. VKWR11903740\nDepartment: Cundinamarca\nCity: La Calera\nPrimary Metric: 697368.4210526316\nBalance Factor: 0"]
+	2579057391440 -> 2579057246160
+	2579057246160 [label="Title: Casa En Arriendo/venta En Cali La Morada Cod. VVLZ-2729\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 1000000.0\nBalance Factor: -1"]
+	2579057246160 -> 2579057336336
+	2579057336336 [label="Title: Casa En Venta En Cali El Refugio Cod. VZSB37\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 1142857.142857143\nBalance Factor: 0"]
+	2579057240976 -> 2579057237904
+	2579057237904 [label="Title: Apartamento En Arriendo/venta En Barranquilla Villa Santos Cod. VARE83401\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 3571428.5714285714\nBalance Factor: 0"]
+	2579057237904 -> 2579057332240
+	2579057332240 [label="Title: Casa Campestre En Venta En Medellin Los Balsos Cod. VRAZ380\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 2368421.052631579\nBalance Factor: 1"]
+	2579057332240 -> 2579057242704
+	2579057242704 [label="Title: Apartamento En Venta En Cali Brisas De Los Alamos Cod. VSUM461941\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2155172.4137931033\nBalance Factor: 1"]
+	2579057242704 -> 2579057329360
+	2579057329360 [label="Title: Casa En Venta En Chia San Jacinto Cod. VKAS3000\nDepartment: Cundinamarca\nCity: Chía\nPrimary Metric: 1741293.5323383084\nBalance Factor: 0"]
+	2579057329360 -> 2579057335248
+	2579057335248 [label="Title: Casa En Venta En Barranquilla Boston Cod. VADC42147\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 1500000.0\nBalance Factor: -1"]
+	2579057335248 -> 2579057243408
+	2579057243408 [label="Title: Lote En Venta En Barranquilla Olaya Herrera Cod. VBGG-100693\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 1315789.4736842106\nBalance Factor: 0"]
+	2579057335248 -> 2579057385872
+	2579057385872 [label="Title: Casa En Arriendo/venta En Armenia La Patria Cod. VBIE407216\nDepartment: Quindío\nCity: Armenia\nPrimary Metric: 1666666.6666666667\nBalance Factor: 1"]
+	2579057385872 -> 2579057437328
+	2579057437328 [label="Title: Casa En Venta En Chia La Balsa Cod. VONE121075455\nDepartment: Cundinamarca\nCity: Chía\nPrimary Metric: 1541284.4036697247\nBalance Factor: 0"]
+	2579057329360 -> 2579057242512
+	2579057242512 [label="Title: Apartamento En Venta En Cali Versalles Cod. VKWC11905357\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 1934523.8095238095\nBalance Factor: 0"]
+	2579057242512 -> 2579057381072
+	2579057381072 [label="Title: Casa En Venta En Jamundi Hacienda El Castillo Cod. VBNC83044\nDepartment: Valle del Cauca\nCity: Jamundí\nPrimary Metric: 1872659.1760299625\nBalance Factor: 0"]
+	2579057381072 -> 2579057334224
+	2579057334224 [label="Title: Casa En Venta En Cajica Cajica Cod. VEDU-50594\nDepartment: Cundinamarca\nCity: Cajicá\nPrimary Metric: 1752767.5276752769\nBalance Factor: 0"]
+	2579057381072 -> 2579057392016
+	2579057392016 [label="Title: Casa En Venta En Cali Ciudad Jardin Cod. VBNC91850\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 1920000.0\nBalance Factor: 0"]
+	2579057242512 -> 2579057329680
+	2579057329680 [label="Title: Casa En Venta En Barranquilla Parte De Paraso Cod. VINU20737\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 2000000.0\nBalance Factor: 1"]
+	2579057329680 -> 2579057430160
+	2579057430160 [label="Title: Casa En Venta En Barranquilla El Campito Cod. VBGG101211\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 2000000.0\nBalance Factor: 0"]
+	2579057242704 -> 2579057330000
+	2579057330000 [label="Title: Edificio En Venta En Cali San Fernando Cod. VBNC81472\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2166666.6666666665\nBalance Factor: -1"]
+	2579057330000 -> 2579057245456
+	2579057245456 [label="Title: Casa En Venta En Buenaventura Independencia Cod. VSBI10533\nDepartment: Valle del Cauca\nCity: Buenaventura\nPrimary Metric: 2166666.6666666665\nBalance Factor: 0"]
+	2579057330000 -> 2579057237776
+	2579057237776 [label="Title: Casa En Venta En Cali Ciudad Jardn Cod. VVLZ3039\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2261904.761904762\nBalance Factor: 1"]
+	2579057237776 -> 2579057342800
+	2579057342800 [label="Title: Apartamento En Venta En Barranquilla Miramar Cod. VBGG-100414\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 2195121.951219512\nBalance Factor: 0"]
+	2579057332240 -> 2579057343760
+	2579057343760 [label="Title: Apartamento En Venta En Santa Marta Bavaria Cod. VKWC11908020\nDepartment: Magdalena\nCity: Santa Marta\nPrimary Metric: 2890625.0\nBalance Factor: 0"]
+	2579057343760 -> 2579057334544
+	2579057334544 [label="Title: Casa En Venta En Fusagasuga Fusagasuga Cod. V341-2187\nDepartment: Cundinamarca\nCity: Fusagasugá\nPrimary Metric: 2578947.3684210526\nBalance Factor: 0"]
+	2579057334544 -> 2579057337488
+	2579057337488 [label="Title: Apartamento En Venta En Cali La Selva Cod. VVLZ2611\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2500000.0\nBalance Factor: 0"]
+	2579057337488 -> 2579057336720
+	2579057336720 [label="Title: Casa En Venta En Cali El Jardn Cod. VSUM461745\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2444444.4444444445\nBalance Factor: 0"]
+	2579057337488 -> 2579057342480
+	2579057342480 [label="Title: Casa En Venta En Armenia Recreo Cod. VBIE407294\nDepartment: Quindío\nCity: Armenia\nPrimary Metric: 2500000.0\nBalance Factor: 0"]
+	2579057334544 -> 2579057392208
+	2579057392208 [label="Title: Casa En Venta En Ibague Santa Barbara Cod. VPAI11808\nDepartment: Tolima\nCity: Ibagué\nPrimary Metric: 2790697.6744186045\nBalance Factor: 0"]
+	2579057392208 -> 2579057382416
+	2579057382416 [label="Title: Apartamento En Venta En Cali Villa Del Sol Cod. VCMP2115\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 2750000.0\nBalance Factor: 0"]
+	2579057392208 -> 2579057344144
+	2579057344144 [label="Title: Apartamento En Venta En Barranquilla Nueva Granada Cod. VADC41917\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 2812500.0\nBalance Factor: 0"]
+	2579057343760 -> 2579057337104
+	2579057337104 [label="Title: Apartamento En Venta En Bello Puerto Nuevo Cod. VVVN2354\nDepartment: Antioquia\nCity: Bello\nPrimary Metric: 3243243.243243243\nBalance Factor: 0"]
+	2579057337104 -> 2579057392848
+	2579057392848 [label="Title: Apartamento En Venta En Medellin Loma Los Balsos - El Poblado Cod. VRAZ-949\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 3064516.129032258\nBalance Factor: 0"]
+	2579057392848 -> 2579057433232
+	2579057433232 [label="Title: Apartamento En Venta En Mosquera Novaterra Arrayn Cod. VGCS-714501883\nDepartment: Cundinamarca\nCity: Mosquera\nPrimary Metric: 3012820.512820513\nBalance Factor: 0"]
+	2579057392848 -> 2579057334864
+	2579057334864 [label="Title: Casa En Venta En La Estrella Toledo Cod. VRPR8892\nDepartment: Antioquia\nCity: La Estrella\nPrimary Metric: 3071428.5714285714\nBalance Factor: 0"]
+	2579057337104 -> 2579057436304
+	2579057436304 [label="Title: Casa En Venta En Bogota Lagos De Crdoba Cod. VAEBH111172\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 3384615.3846153845\nBalance Factor: 0"]
+	2579057436304 -> 2579057386512
+	2579057386512 [label="Title: Apartamento En Venta En Cali La Hacienda Cod. VIAA1685\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 3372093.023255814\nBalance Factor: 0"]
+	2579057436304 -> 2579057342096
+	2579057342096 [label="Title: Edificio En Arriendo/venta En Cali Popular Cod. VGAR1178\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 3503401.3605442178\nBalance Factor: 0"]
+	2579057237904 -> 2579057383184
+	2579057383184 [label="Title: Apartamento En Venta En Bogota Chiconavarra Cod. VINP22297\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 4753519.736842105\nBalance Factor: 0"]
+	2579057383184 -> 2579057239632
+	2579057239632 [label="Title: Apartamento En Venta En Bogota Pasadena Cod. VMIS1048039\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 3865979.381443299\nBalance Factor: 0"]
+	2579057239632 -> 2579057243088
+	2579057243088 [label="Title: Apartamento En Venta En Medellin Laureles Cod. VMAT12129\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 3833333.3333333335\nBalance Factor: 1"]
+	2579057243088 -> 2579057331088
+	2579057331088 [label="Title: Casa En Venta En Cali Las Delicias Cod. VSHI-10\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 3787878.787878788\nBalance Factor: 1"]
+	2579057331088 -> 2579057335568
+	2579057335568 [label="Title: Apartamento En Venta En Cali El Refugio Cod. VKWR10404414\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 3597560.975609756\nBalance Factor: 0"]
+	2579057335568 -> 2579057341392
+	2579057341392 [label="Title: Apartamento En Venta En Bello Hacienda Niquia Cod. VVVN2533\nDepartment: Antioquia\nCity: Bello\nPrimary Metric: 3580246.9135802467\nBalance Factor: 0"]
+	2579057335568 -> 2579057431760
+	2579057431760 [label="Title: Apartamento En Venta En Sabaneta El Carmelo Cod. VMER208444\nDepartment: Antioquia\nCity: Sabaneta\nPrimary Metric: 3733333.3333333335\nBalance Factor: 0"]
+	2579057331088 -> 2579057245072
+	2579057245072 [label="Title: Apartamento En Venta En Cali Urbanizacin La Flora Cod. VBNC90787\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 3789473.6842105263\nBalance Factor: 0"]
+	2579057243088 -> 2579057238672
+	2579057238672 [label="Title: Casa En Arriendo/venta En Barranquilla Bellavista Cod. VFNC10498\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 3855421.686746988\nBalance Factor: 1"]
+	2579057238672 -> 2579057379024
+	2579057379024 [label="Title: Apartamento En Arriendo/venta En Barranquilla Altos Del Limon Cod. VARE66427\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 3855421.686746988\nBalance Factor: 0"]
+	2579057239632 -> 2579057240272
+	2579057240272 [label="Title: Apartamento En Venta En Bogota El Contador-Usaqun Cod. VITEK3320\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 4263565.891472869\nBalance Factor: 0"]
+	2579057240272 -> 2579057379664
+	2579057379664 [label="Title: Apartamento En Venta En Envigado Sebastiana Cod. VSUR-10416\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 4137931.0344827585\nBalance Factor: 0"]
+	2579057379664 -> 2579057389712
+	2579057389712 [label="Title: Apartamento En Venta En Cali Ciudad Jardn Cod. VMTB2711\nDepartment: Valle del Cauca\nCity: Cali\nPrimary Metric: 4074074.074074074\nBalance Factor: 0"]
+	2579057389712 -> 2579057378384
+	2579057378384 [label="Title: Apartamento En Venta En Barranquilla El Golf Cod. VARE61717\nDepartment: Atlántico\nCity: Barranquilla\nPrimary Metric: 4052434.426229508\nBalance Factor: 0"]
+	2579057389712 -> 2579057430480
+	2579057430480 [label="Title: Apartamento En Venta En Medellin Palmas Cod. VSUR10510\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 4122137.4045801526\nBalance Factor: 0"]
+	2579057379664 -> 2579057335952
+	2579057335952 [label="Title: Apartamento En Venta En Bucaramanga Cabecera Cod. VCYC11038\nDepartment: Santander\nCity: Bucaramanga\nPrimary Metric: 4185185.185185185\nBalance Factor: 0"]
+	2579057335952 -> 2579057381776
+	2579057381776 [label="Title: Apartamento En Venta En Medellin Beln Alpes Cod. VKWC11902587\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 4166666.6666666665\nBalance Factor: 0"]
+	2579057335952 -> 2579057380432
+	2579057380432 [label="Title: Apartamento En Venta En Medellin Loma San Julian Cod. VMAT12265\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 4216867.469879518\nBalance Factor: 0"]
+	2579057240272 -> 2579057431440
+	2579057431440 [label="Title: Apartamento En Venta En Cartagena Pie De Popa Cod. VARE76073\nDepartment: Bolívar\nCity: Cartagena\nPrimary Metric: 4433333.333333333\nBalance Factor: 0"]
+	2579057431440 -> 2579057380048
+	2579057380048 [label="Title: Casa En Venta En Envigado Abadia Cod. VRPR7823\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 4294478.527607362\nBalance Factor: 0"]
+	2579057380048 -> 2579057379344
+	2579057379344 [label="Title: Apartamento En Venta En Medellin San Lucas Cod. VMAT12452\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 4292452.8301886795\nBalance Factor: 0"]
+	2579057380048 -> 2579057429136
+	2579057429136 [label="Title: Apartamento En Venta En Sabaneta Aves Maria Cod. VSUR10547\nDepartment: Antioquia\nCity: Sabaneta\nPrimary Metric: 4330708.661417323\nBalance Factor: 0"]
+	2579057431440 -> 2579057381392
+	2579057381392 [label="Title: Apartamento En Venta En Envigado Zuiga Cod. VRAZ976\nDepartment: Antioquia\nCity: Envigado\nPrimary Metric: 4566929.133858268\nBalance Factor: -1"]
+	2579057381392 -> 2579057433616
+	2579057433616 [label="Title: Apartamento En Venta En Medellin Beln Cod. VOCH1916\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 4578313.253012048\nBalance Factor: 0"]
+	2579057383184 -> 2579057339024
+	2579057339024 [label="Title: Apartamento En Venta En Bogota San Patricio Cod. VCYC10418\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 6388888.888888889\nBalance Factor: 0"]
+	2579057339024 -> 2579057343440
+	2579057343440 [label="Title: Apartamento En Venta En Bogota El Redil-Usaqun Cod. VGCS-714501960\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 5147058.823529412\nBalance Factor: -1"]
+	2579057343440 -> 2579057392912
+	2579057392912 [label="Title: Apartamento En Venta En Medellin Las Lomas Cod. VMER208762\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 5135135.135135135\nBalance Factor: 1"]
+	2579057392912 -> 2579057428816
+	2579057428816 [label="Title: Apartamento En Venta En Bogota Colina Campestre Iii, Iv, V, V Cod. VONE12113027\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 4954545.454545454\nBalance Factor: 0"]
+	2579057343440 -> 2579057430800
+	2579057430800 [label="Title: Apartamento En Venta En Bogota Santa Barbara Cod. VRCR8482\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 5516431.924882629\nBalance Factor: 1"]
+	2579057430800 -> 2579057428112
+	2579057428112 [label="Title: Apartamento En Venta En Medellin Santa Maria De Los Angeles Cod. VSUR111710\nDepartment: Antioquia\nCity: Medellín\nPrimary Metric: 5416666.666666667\nBalance Factor: -1"]
+	2579057428112 -> 2579057436624
+	2579057436624 [label="Title: Apartamento En Venta En Bogota Santa Brbara Cod. VMIS1038013\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 5421686.746987952\nBalance Factor: 0"]
+	2579057430800 -> 2579057432528
+	2579057432528 [label="Title: Apartamento En Arriendo/venta En Bogota Los Rosales Cod. VREI18159\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 5950413.223140496\nBalance Factor: 0"]
+	2579057339024 -> 2579057341072
+	2579057341072 [label="Title: Apartamento En Venta En Bogota La Carolina-Usaqun Cod. VBKS2721\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 8080808.080808081\nBalance Factor: 1"]
+	2579057341072 -> 2579057429840
+	2579057429840 [label="Title: Casa En Venta En Bogota Sotileza Cod. VREI18144\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 6666666.666666667\nBalance Factor: 1"]
+	2579057429840 -> 2579057393552
+	2579057393552 [label="Title: Apartamento En Venta En Bogota Santa Barbara Cod. VGIG1144050806\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 6435643.564356436\nBalance Factor: -1"]
+	2579057393552 -> 2579057431120
+	2579057431120 [label="Title: Apartaestudio En Venta En Bogota Santa Brbara Cod. VGES1474260\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 6562500.0\nBalance Factor: 0"]
+	2579057429840 -> 2579057342544
+	2579057342544 [label="Title: Apartamento En Venta En Santa Marta Gayra Cod. VREI18142\nDepartment: Magdalena\nCity: Santa Marta\nPrimary Metric: 7388059.701492538\nBalance Factor: 0"]
+	2579057341072 -> 2579057385552
+	2579057385552 [label="Title: Apartamento En Arriendo/venta En Bogota Las Nieves Cod. V3412177\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 8333333.333333333\nBalance Factor: 0"]
+	2579057385552 -> 2579057384528
+	2579057384528 [label="Title: Apartamento En Venta En Bogota Los Rosales Cod. VBKS1914\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 8222222.222222222\nBalance Factor: 0"]
+	2579057385552 -> 2579057385232
+	2579057385232 [label="Title: Oficina En Arriendo/venta En Bogota Chico Norte Ii Cod. VMIS1054007\nDepartment: Cundinamarca\nCity: Bogotá D.C\nPrimary Metric: 10648148.148148147\nBalance Factor: 0"]
+}
