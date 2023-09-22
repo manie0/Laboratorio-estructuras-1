@@ -254,7 +254,7 @@ class AVLTree:
             if node is not None:
                 if len(result) <= depth:
                     result.append([])
-                result[depth].append(node.data)
+                result[depth].append(node.data['title'])
                 traverse(node.left, depth + 1)
                 traverse(node.right, depth + 1)
 
